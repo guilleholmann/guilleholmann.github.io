@@ -12,14 +12,14 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 }
 
 html, body {
-	background: #181818;
+	background: #292E3E;
 	font-family: 'Roboto Condensed', sans-serif;
   font-size: 16px; color: #222;
 }
 
 /* colors
 #999999
-#e91d63
+#8E988D
 #666666
  */
 
@@ -49,7 +49,7 @@ article p{
 
 .mainDetails {
 	padding: 25px 35px;
-	border-bottom: 2px solid #e91d63;
+	border-bottom: 2px solid #8E988D;
 	background: #fff;
 }
 
@@ -114,7 +114,7 @@ article p{
 }
 
 #contactDetails ul li a:hover {
-	color: #e91d63;
+	color: #8E988D;
 }
 
 
@@ -145,7 +145,7 @@ section:last-child {
 	font-family: 'Oswald', sans-serif;
 	text-transform: uppercase;
 	font-size: 1.3em;
-	color: #e91d63;
+	color: #8E988D;
 }
 
 .sectionContent h2 {
